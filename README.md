@@ -1,4 +1,5 @@
 ![Ruan — Stats](https://github-readme-stats.vercel.app/api?username=okkvlt&show_icons=true&locale=en&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okkvlt&layout=compact&theme=synthwave)
 
 <!--
 **okkvlt/okkvlt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
