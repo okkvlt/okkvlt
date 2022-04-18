@@ -1,18 +1,18 @@
-<center>
-![Ruan — Stats](https://github-readme-stats.vercel.app/api?username=okkvlt&show_icons=true&locale=en&theme=synthwave&card_width=500)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okkvlt&layout=compact&theme=synthwave&card_width=500)
-</center>
-<!--
-**okkvlt/okkvlt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Profile</h1>
 
-Here are some ideas to get you started:
+**Blogs:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  https://philosophicae.wordpress.com/<br>
+  https://pedraoculta.wordpress.com/
+
+**Musical projects:**
+
+  https://pflanzengluck.bandcamp.com/<br>
+  https://baraddur.bandcamp.com/
+<hr width="100%">
+<div align="center">
+  <div style="display: flex;">
+    <img src="https://github-readme-stats.vercel.app/api?username=okkvlt&show_icons=true&locale=en&theme=synthwave" style="vertical-align: top;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okkvlt&layout=compact&theme=synthwave&card_width=445" />
+  </div>
+</div>
