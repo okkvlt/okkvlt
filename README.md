@@ -7,19 +7,15 @@
 <h2 align="center">Blogs</h2>
 
 <div align="center">
-  
-https://philosophicae.wordpress.com/<br>
-https://pedraoculta.wordpress.com/
-
+    <a href="https://philosophicae.wordpress.com/" target="_blank">Philosophicae</a>
+    <a href="https://pedraoculta.wordpress.com/" target="_blank"></a>
 </div>
 
 <h2 align="center">Musical projects</h2>
 
 <div align="center">
-
-https://pflanzengluck.bandcamp.com/<br>
-https://baraddur.bandcamp.com/
-  
+    <a href="https://pflanzengluck.bandcamp.com/" target="_blank"></a>
+    <a href="https://baraddur.bandcamp.com/" target="_blank"></a>  
 </div>
 
 <br>
