@@ -8,14 +8,14 @@
 
 <div align="center">
     <a href="https://philosophicae.wordpress.com/" target="_blank">Philosophicae</a>
-    <a href="https://pedraoculta.wordpress.com/" target="_blank"></a>
+    <a href="https://pedraoculta.wordpress.com/" target="_blank">Pedra Oculta</a>
 </div>
 
 <h2 align="center">Musical projects</h2>
 
 <div align="center">
-    <a href="https://pflanzengluck.bandcamp.com/" target="_blank"></a>
-    <a href="https://baraddur.bandcamp.com/" target="_blank"></a>  
+    <a href="https://pflanzengluck.bandcamp.com/" target="_blank">Bandcamp - Pflanzenglück</a>
+    <a href="https://baraddur.bandcamp.com/" target="_blank">Bandcamp - Barad-Dûr</a>  
 </div>
 
 <br>
